@@ -4,3 +4,4 @@ Solidity app
 ## 3. Combiner Struct, Mapping & Array
 ## 4.Enumerations
 ## 5. Revert, Require & assert
+## 6. Begin,Pause and Delete Smart Contract
