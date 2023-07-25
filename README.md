@@ -3,3 +3,4 @@ Solidity app
 ## 2.Arrays
 ## 3. Combiner Struct, Mapping & Array
 ## 4.Enumerations
+## 5. Revert, Require & assert
