@@ -5,3 +5,4 @@ Solidity app
 ## 4.Enumerations
 ## 5. Revert, Require & assert
 ## 6. Begin,Pause and Delete Smart Contract
+## 7. Atelier_gestionnaire d'élèves
